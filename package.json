@@ -1,0 +1,15 @@
+{
+  "name": "shopify-scraping",
+  "version": "1.0.0",
+  "description": "puppeteer experiment",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.15.0-post"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kouta Nakano",
+  "license": "ISC"
+}
